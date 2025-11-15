@@ -1,0 +1,2 @@
+D1|PC|80|Not working|Not available
+D2|Console|120|Working|Available
